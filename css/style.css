@@ -93,7 +93,7 @@ html, body{
   max-width: 100%;
 }
 
-.social a{
+/* .social a{
   font-size: 4.5em;
   padding: 3rem;
 }
@@ -118,7 +118,7 @@ html, body{
 .fa-instagram:hover,
 .fa-youtube:hover{
   color: #d5d5d5;
-}
+} */
 footer{
   background-color: #3f3f3f;
   color: #d5d5d5;
@@ -147,7 +147,7 @@ hr.light-100{
 
 
 /*---Media Queries --*/
-@media (max-width: 992px) {
+/* @media (max-width: 992px) {
 
   }
 @media (max-width: 768px) {
@@ -155,17 +155,17 @@ hr.light-100{
 }
 @media (max-width: 576px) {
 
-}
+} */
 
 
 /*---Firefox Bug Fix --*/
-.carousel-item {
+/* .carousel-item {
   transition: -webkit-transform 0.5s ease;
   transition: transform 0.5s ease;
   transition: transform 0.5s ease, -webkit-transform 0.5s ease;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
-}
+} */
 /*--- Fixed Background Image --*/
 figure {
   position: relative;
